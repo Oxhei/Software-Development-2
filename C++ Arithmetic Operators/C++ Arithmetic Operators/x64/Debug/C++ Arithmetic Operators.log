@@ -1,0 +1,7 @@
+﻿  C++ Arithmetic Operators.cpp
+C:\Users\Richard PC\source\repos\Software-Development-2\C++ Arithmetic Operators\C++ Arithmetic Operators\C++ Arithmetic Operators.cpp(14,8): warning C4552: '-': result of expression not used
+C:\Users\Richard PC\source\repos\Software-Development-2\C++ Arithmetic Operators\C++ Arithmetic Operators\C++ Arithmetic Operators.cpp(16,8): warning C4552: '-': result of expression not used
+C:\Users\Richard PC\source\repos\Software-Development-2\C++ Arithmetic Operators\C++ Arithmetic Operators\C++ Arithmetic Operators.cpp(18,4): warning C4552: '-': result of expression not used
+C:\Users\Richard PC\source\repos\Software-Development-2\C++ Arithmetic Operators\C++ Arithmetic Operators\C++ Arithmetic Operators.cpp(20,8): warning C4552: '-': result of expression not used
+C:\Users\Richard PC\source\repos\Software-Development-2\C++ Arithmetic Operators\C++ Arithmetic Operators\C++ Arithmetic Operators.cpp(9): error C4700: uninitialized local variable 'a' used
+C:\Users\Richard PC\source\repos\Software-Development-2\C++ Arithmetic Operators\C++ Arithmetic Operators\C++ Arithmetic Operators.cpp(11): error C4700: uninitialized local variable 'b' used

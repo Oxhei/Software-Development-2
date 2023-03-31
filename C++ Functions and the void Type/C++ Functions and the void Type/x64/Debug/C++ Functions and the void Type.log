@@ -1,0 +1,3 @@
+﻿  C++ Functions and the void Type.cpp
+C:\Users\Richard PC\source\repos\Software-Development-2\C++ Functions and the void Type\C++ Functions and the void Type\C++ Functions and the void Type.cpp(36,10): error C2371: 'name': redefinition; different basic types
+C:\Users\Richard PC\source\repos\Software-Development-2\C++ Functions and the void Type\C++ Functions and the void Type\C++ Functions and the void Type.cpp(35,12): message : see declaration of 'name'

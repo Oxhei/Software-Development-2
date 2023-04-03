@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Exercise Three – More Loops and Modulus", "Exercise Three – More Loops and Modulus\Exercise Three – More Loops and Modulus.vcxproj", "{D243DA9E-32C2-4EAA-AD4B-27973BAC7731}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D243DA9E-32C2-4EAA-AD4B-27973BAC7731}.Debug|x64.ActiveCfg = Debug|x64
+		{D243DA9E-32C2-4EAA-AD4B-27973BAC7731}.Debug|x64.Build.0 = Debug|x64
+		{D243DA9E-32C2-4EAA-AD4B-27973BAC7731}.Debug|x86.ActiveCfg = Debug|Win32
+		{D243DA9E-32C2-4EAA-AD4B-27973BAC7731}.Debug|x86.Build.0 = Debug|Win32
+		{D243DA9E-32C2-4EAA-AD4B-27973BAC7731}.Release|x64.ActiveCfg = Release|x64
+		{D243DA9E-32C2-4EAA-AD4B-27973BAC7731}.Release|x64.Build.0 = Release|x64
+		{D243DA9E-32C2-4EAA-AD4B-27973BAC7731}.Release|x86.ActiveCfg = Release|Win32
+		{D243DA9E-32C2-4EAA-AD4B-27973BAC7731}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10564DD2-8D8B-43DB-A204-050E5875A70B}
+	EndGlobalSection
+EndGlobal
